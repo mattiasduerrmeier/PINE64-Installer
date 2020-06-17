@@ -1,7 +1,7 @@
 PINE64 Installer
 ================
 
-This is a tool we forked from [Etcher](https://etcher.io/) to add an easy menu for downloading the PINE A64(+), SOPINE or Pinebook OS images for flashing to the MicroSD card, saving users the extra steps of finding links on the web, downloading the image then finding the file on the local system again.
+This is a tool forked from [Etcher](https://etcher.io/) to add an easy menu for downloading the PINE A64(+), SOPINE or Pinebook OS images for flashing to the MicroSD card, saving users the extra steps of finding links on the web, downloading the image and finding the file on the local system.
 
 ***
 
@@ -12,7 +12,7 @@ This is a tool we forked from [Etcher](https://etcher.io/) to add an easy menu f
 > [**Latest Version**](https://github.com/pine64dev/PINE64-Installer/releases/latest)
 
 ## Notes
-- Please disable Ext2fsd software because it can conflict with this app.
+- Please disable Ext2Fsd software: it can conflict with this app.
 
 ## Screenshots and Guidelines
 ![screenshot](https://raw.githubusercontent.com/pine64dev/PINE64-Installer/master/screenshot.png)
@@ -24,7 +24,7 @@ This is a tool we forked from [Etcher](https://etcher.io/) to add an easy menu f
 
 ![screenshot select OS](https://raw.githubusercontent.com/pine64dev/PINE64-Installer/master/screenshot3.png)
 - Select the OS of your choice.
-	- Scroll to the bottom the select a local image file (Note that, select local gz / gz2 / xz image file name must end with .img.gz / .img.bz2 / .img.xz).
+	- Scroll to the bottom the select a local image file (Note: select local gz / gz2 / xz image file name must end with .img.gz / .img.bz2 / .img.xz).
 - If you wish to flash an older image, you can use the version select box on the right of the OS list.
 - Click on the "i" at the right of the version to view the release notes or related websites.
 
@@ -43,8 +43,8 @@ This is a tool we forked from [Etcher](https://etcher.io/) to add an easy menu f
 
 
 ## Support
-If you have any feedback please create new thread in [this forum](https://forum.pine64.org/forumdisplay.php?fid=21) for discussion. You also can subscribe to [this forum thread](https://forum.pine64.org/showthread.php?tid=4481) to receive latest news on the PINE64 Installer.
+If you have any feedback please create new thread in [this forum](https://forum.pine64.org/forumdisplay.php?fid=21) for discussion. You can also subscribe to [this forum thread](https://forum.pine64.org/showthread.php?tid=4481) to receive the latest news on the PINE64 Installer.
 
 
 ## License
-PINE64 Installer is free software, and may be redistributed under the terms specified in the [license](https://github.com/pine64dev/PINE64-Installer/blob/master/LICENSE).
+PINE64 Installer is Free Software, and may be redistributed under the terms specified in the [license](https://github.com/pine64dev/PINE64-Installer/blob/master/LICENSE).
